@@ -1,0 +1,21 @@
+# Data #
+########
+sample_submission.csv
+test_nolabel.tsv.gz
+test_nolabel.tsv
+train.tsv.gz
+train.tsv
+
+# Jupyter notebook shit #
+#########################
+.ipynb_checkpoints
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
