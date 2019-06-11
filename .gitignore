@@ -5,6 +5,7 @@ test_nolabel.tsv.gz
 test_nolabel.tsv
 train.tsv.gz
 train.tsv
+submission.csv
 
 # Jupyter notebook shit #
 #########################
